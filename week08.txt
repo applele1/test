@@ -1,3 +1,4 @@
 mid test
-git & github
-computer architect
+-컴퓨터구조
+-오픈소스 (깃, 깃허브)
+
